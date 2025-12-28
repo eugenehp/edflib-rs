@@ -20,4 +20,4 @@ git submodule add --force -- https://gitlab.com/Teuniz/EDFlib.git crates/edflib-
 
 [MIT](./LICENSE)
 
-2024-2025 [Eugene Hauptmann](http://github.com/eugenehp)
+2024-2026 [Eugene Hauptmann](http://github.com/eugenehp)
